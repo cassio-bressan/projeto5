@@ -15,7 +15,6 @@ if hist_button:
 
 
 disp_button = st.button('Criar gráfico de dispersão')
-
 if disp_button:  
     st.write('Criando um gráfico de dispersão para o conjunto de dados de anúncios de vendas de carros')
 
