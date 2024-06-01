@@ -4,5 +4,5 @@
 
 ``O projeto se trata de anúncios de vendas de carros.``
 
-Estou enviando a primeira versão deste projeto pois está bem simples e gostaria e saber como posso melhorar ele como um todo.
+Estou enviando a primeira versão deste projeto pois está bem simples e gostaria de saber como posso melhorar ele como um todo.
 https://projeto5-jv34.onrender.com
